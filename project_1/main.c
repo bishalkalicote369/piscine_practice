@@ -20,7 +20,7 @@ int main()
 
   total_price = price * quantity;
 
-  printf("You have bought %d %s\n", quantity, item);
+  printf("You have bought %d %s/s\n", quantity, item);
   printf("The total price is: %.2f\n", total_price);
 
   return 0;
